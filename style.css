@@ -1,0 +1,14 @@
+.boxDivs {
+    height: 250px;
+    line-height: 250px;
+     color: seagreen;
+     text-align: center;
+    vertical-align: middle;
+ 
+  
+
+}
+
+body {
+    background-color:aqua;
+}
